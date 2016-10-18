@@ -34,6 +34,6 @@ git merge
 ```
 There will likely be some conflicts, which you need to solve (look for strings like >>>> and ==== in the files that had conflicts).
 
-~~ personal directories ~~
-~~ A possibility is that each one of us has a personal directory where we can share code that is in intermediate state. ~~
-~~ This might help us to avoid having to resolve many conflicts while merging, but in any case it would be best if each one of us also worked on a personal branch, and only put code in these repositories once the development is almost done. ~~
+~~personal directories~~
+~~A possibility is that each one of us has a personal directory where we can share code that is in intermediate state.~~
+~~This might help us to avoid having to resolve many conflicts while merging, but in any case it would be best if each one of us also worked on a personal branch, and only put code in these repositories once the development is almost done.~~
