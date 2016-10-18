@@ -23,7 +23,7 @@ git push origin <name of your branch>
 The changes that you made while *inside* your development branch will not be visible to the master branch unless you submit a pull request (I usually do this via the github web interface, I'm unsure how to do this from the command line).
 The last line in the given code is important, because it will setup your local development branch to *track* the remote branch (on github) with the same name.
 
-Whenever you need to go back to master, simply type `git checkout master`, and obviously `git checkout <name of the branch> to go to whatever branch you want.
+Whenever you need to go back to master, simply type `git checkout master`, and obviously `git checkout` <name of the branch> to go to whatever branch you want.
 
 Since your development branch and the master are two separate entities, at some point you probably need to synchronize the changes that were in master with the ones in your local development branch.
 You do this with the following code:
